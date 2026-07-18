@@ -24,7 +24,7 @@ assets:
   parts:
   - {seq: 0, filename: KR5b0084_000-CK-KZ-jye.yaml, hash: 'sha256:08976ed920c09804cda4f4e297109592ad179526d2902786918ba7d91615506a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0084_000-CK-KZ-jye.markers.yaml, hash: 'sha256:db3f08c73e4be140e3e20a40d2cc1b4bedc0b038f4d65cc4a7e1ab563d9738e5'}
+  - {seq: 0, role: markers, filename: assets/KR5b0084_000-CK-KZ-jye.markers.yaml, hash: 'sha256:52c203eb448a4e9320d16e5fa39aa7976a88ceed97a4d22ccf6b43b39dbee5a2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -36,4 +36,4 @@ table_of_contents:
   label: 洞玄靈寶定觀經註
   type: section
   level: 1
-hash: sha256:00270bb910cdf3f799f1a299596a6a07c69faaa3f580a0911615bb42c81955d2
+hash: sha256:95ef28ad35896724c0602743b6aa3397539de96d644eb83399b70702c98f24c1
